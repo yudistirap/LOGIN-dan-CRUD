@@ -1,0 +1,11 @@
+E:\YUDIS\Visual Basic\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\YUDIS\Visual Basic\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\YUDIS\Visual Basic\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\YUDIS\Visual Basic\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\YUDIS\Visual Basic\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\YUDIS\Visual Basic\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\YUDIS\Visual Basic\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\YUDIS\Visual Basic\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\YUDIS\Visual Basic\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\YUDIS\Visual Basic\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\YUDIS\Visual Basic\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources

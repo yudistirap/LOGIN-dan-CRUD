@@ -1,0 +1,4 @@
+Database yang digunakan adalah Microsoft Access
+Buka menggunakan Visual Studio
+
+untuk bahan pembelajaran.
